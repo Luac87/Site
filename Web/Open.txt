@@ -1,1 +1,2 @@
 For test purposes only
+Java Project is ready to start, please configure the repository 
